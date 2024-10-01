@@ -1,1 +1,2 @@
 # MusicAPI-CST391
+REMEBER TO INSTAL node-modules
